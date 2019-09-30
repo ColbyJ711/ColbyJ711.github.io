@@ -11,9 +11,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
+  margin: 3;
+  padding: 2;
+  border: 5;
   font-size: 8em;
   font: bold;
   vertical-align: middle; }
@@ -26,7 +26,7 @@ ol, ul {
 
 table {
   border-collapse: collapse;
-  border-spacing: 0; }
+  border-spacing: 1; }
 
 caption, th, td {
   text-align: left;
@@ -55,4 +55,4 @@ a {
     color: #e00000; }
 
 #main {
-  padding: 50px; }
+  padding: 60px; }
