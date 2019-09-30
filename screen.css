@@ -16,17 +16,17 @@ time, mark, audio, video {
   border: 15%;
   font-size: 100%;
   font: bold;
-  vertical-align: middle; }
+  vertical-align: baseline; }
 
 body {
-  line-height: 2; }
+  line-height: 1; }
 
 ol, ul {
   list-style: none; }
 
 table {
   border-collapse: collapse;
-  border-spacing: 1; }
+  border-spacing: 0; }
 
 caption, th, td {
   text-align: left;
