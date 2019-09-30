@@ -11,9 +11,9 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-  margin: 3;
-  padding: 2;
-  border: 5;
+  margin: 10%;
+  padding: 20%;
+  border: 15%;
   font-size: 100%;
   font: bold;
   vertical-align: middle; }
