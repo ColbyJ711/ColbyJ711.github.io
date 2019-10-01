@@ -13,8 +13,8 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
   padding: 0;
-  border: 10%;
-  font-size: 100%;
+  border: 0;
+  font-size: 30px;
   font: bold;
   vertical-align: baseline; }
 
@@ -29,7 +29,7 @@ table {
   border-spacing: 0; }
 
 caption, th, td {
-  text-align: left;
+  text-align: center;
   font-weight: normal;
   vertical-align: middle; }
 
@@ -56,6 +56,3 @@ a {
 
 #main {
   padding: 50px; }
-h1 {font-size: 8em;
-color: royalblue
- }
