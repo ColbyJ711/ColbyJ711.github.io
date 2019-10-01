@@ -56,3 +56,9 @@ a {
 
 #main {
   padding: 50px; }
+  
+header {padding: 60px;
+text-align: center;
+background: crimson;
+color: black;
+font-size: 30px;}
