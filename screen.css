@@ -13,7 +13,7 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
   padding: 0;
-  border: 0;
+  border: 10%;
   font-size: 100%;
   font: bold;
   vertical-align: baseline; }
