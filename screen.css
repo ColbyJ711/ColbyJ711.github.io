@@ -56,3 +56,10 @@ a {
 
 #main {
   padding: 50px; }
+header {
+  padding: 60px;
+  text-align: center;
+  background: #e00000;
+  color: #2a2a2a;
+  font-size: 30px;
+}
