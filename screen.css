@@ -63,3 +63,8 @@ a {
   color: #2a2a2a;
   font-size: 30px;
 }
+footer {
+  padding: 10px;
+  background: blue;
+  color: black;
+}
