@@ -65,6 +65,7 @@ a {
 }
 footer {
   padding: 10px;
-  background: blue;
-  color: black;
+  background: rgb(0, 255, 128);
+  border-color: black;
+  border-width: 1px
 }
