@@ -52,7 +52,7 @@ body {
 a {
   color: #0e03a6; }
   a:hover {
-    color: #e00000; }
+    color: skyblue; }
 
 #main {
   padding: 50px; }
@@ -67,7 +67,8 @@ footer {
   padding: 10px;
   background: rgb(0, 255, 128);
   border-color: black;
-  border-width: 5px
+  border-width: 5px;
+  text-align: center
 }
 div#main {
   color: gold;
