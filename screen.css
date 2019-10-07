@@ -65,14 +65,15 @@ a {
 }
 footer {
   padding: 10px;
-  background: rgb(0, 255, 128);
+  background: rgb(27, 122, 27);
   border-color: black;
   border-width: 5px;
-  text-align: center
+  text-align: center;
 }
 div#main {
   color: gold;
   text-align: center;
+  background-color: black
 }
 h1 {
   font-family: 'Times New Roman', Times, serif;
