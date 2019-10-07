@@ -79,3 +79,6 @@ div#main {
   background-position-y: -250px;
   background-image: url("https://i.redd.it/ln2j3b2yuqi11.png")
 }
+.container {
+text-align: center;
+}
