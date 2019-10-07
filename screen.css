@@ -14,7 +14,7 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 30px;
+  font-size: 17px;
   font: bold;
   vertical-align: baseline; }
 
@@ -74,6 +74,8 @@ div#main {
   text-align: center;
   background-color: black
 }
-h1 {
-  font-family: 'Times New Roman', Times, serif;
+.jumbotron {
+  background-position-x: -300px;
+  background-position-y: -250px;
+  background-image: url("https://i.redd.it/ln2j3b2yuqi11.png")
 }
